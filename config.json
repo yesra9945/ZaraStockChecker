@@ -1,10 +1,10 @@
 {
     "urls": [
-        "https://www.zara.com/tr/tr/dugumlu-ajurlu-triko-elbise-p02756024.html?v1=367462396",
-        "https://www.zara.com/tr/tr/parlak-tasli-kisa-elbise-p04764302.html?v1=363971227"
+        "https://www.zara.com/tr/tr/dokulu-kruvaze-kimono-p05427734.html",
+        "https://www.zara.com/tr/tr/dokulu-kruvaze-kimono-p05427743.html"
     ],
-    "sizes_to_check": ["XS", "S"],
-    "sleep_min_seconds": 600,  
-    "sleep_max_seconds": 720,  
+    "sizes_to_check": ["M-L", "M-L"],
+    "sleep_min_seconds": 1,  
+    "sleep_max_seconds": 1,  
     "chrome_driver_path": "../../DesktopHolder/chromedriver-win64/chromedriver.exe"
 }
